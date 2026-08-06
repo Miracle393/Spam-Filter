@@ -31,17 +31,5 @@ Classes:
 ## Notebooks
 
 - `Spam_Filter_Logistic_Regression.ipynb`
-  - Loading and exploring dataset
-  - TF-IDF feature extraction
-  - Training Logistic Regression model
-  - Making predictions
-
 - `Confusion_Matrix_Practice.ipynb`
-  - Understanding True Positive, True Negative, False Positive, and False Negative
-  - Visualizing confusion matrix
-
-## Current Learning Progress
-
-- Completed Logistic Regression implementation
-- Practiced confusion matrix interpretation
-- Continuing with binary classification evaluation metrics
+ 
