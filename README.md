@@ -37,3 +37,4 @@ Classes:
 - `GridSearch.ipynb`
 - `LargeGS.ipynb`
 - `multi-class.ipynb`
+- `multi-label.ipynb`
