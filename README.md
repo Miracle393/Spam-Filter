@@ -32,4 +32,6 @@ Classes:
 
 - `Spam_Filter_Logistic_Regression.ipynb`
 - `Confusion_Matrix_Practice.ipynb`
- - `Precision_Recall_F1.ipynb`
+- `Precision_Recall_F1.ipynb`
+- `Accuracy.ipynb`
+- `GridSearch.ipynb`
