@@ -35,3 +35,4 @@ Classes:
 - `Precision_Recall_F1.ipynb`
 - `Accuracy.ipynb`
 - `GridSearch.ipynb`
+- `LargeGS.ipynb`
