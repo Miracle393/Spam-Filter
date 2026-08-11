@@ -36,3 +36,4 @@ Classes:
 - `Accuracy.ipynb`
 - `GridSearch.ipynb`
 - `LargeGS.ipynb`
+-`multi-class.ipynb`
